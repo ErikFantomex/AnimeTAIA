@@ -1,9 +1,7 @@
+# AnimeTAIA
 # Streamlit app for anime recommender system
 
 Recomendador anime basado en el contenido de los animes que has visto.
-
-https://share.streamlit.io/dinh2644/anime_recommender_app/main/recommender_app.py
-
 Nota: 
 - El modelo se entrena con los datos de MyAnimeList, por lo que los animes que se recomiendan son los que están en esta plataforma.
 
@@ -11,5 +9,4 @@ Nota:
 
 - Comentarios sobre pandas y numpy en el código  :D
 
-No output sera mostrado ningún resultado debido a que falta un archivo pkl grande que no se subió debido al límite de carga de 25 MB de Github. La carpeta de exhibición de fotos contiene lo que sería el resultado si alguien buscara el Anime "Demon Slayer", por ejemplo.
-# AnimeTAIA
+No output sera mostrado ningún resultado debido a que falta un archivo pkl grande que no se subió debido al límite de carga de 100 MB de Github. La carpeta de exhibición de fotos contiene lo que sería el resultado si alguien buscara el Anime "Demon Slayer", por ejemplo.
